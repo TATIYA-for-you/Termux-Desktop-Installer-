@@ -23,5 +23,14 @@ pkg update -y && pkg install git python -y
 git clone [https://github.com/TATIYA-for-you/Termux-Desktop-Installer-.git](https://github.com/TATIYA-for-you/Termux-Desktop-Installer-.git)
 cd Termux-Desktop-Installer-
 python install.py
+##🎮 How to Connect
+​After installation, type vncserver (Set a password).
+​Open VNC Viewer App
+​Connect to: 127.0.0.1:5901.
+​Enjoy your new Desktop!
+​👨‍💻 Author
+​Tatiya (BABA)
+
+
 
 
